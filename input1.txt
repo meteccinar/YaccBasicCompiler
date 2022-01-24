@@ -1,0 +1,28 @@
+void f2()
+{
+	int x;
+}
+void function()
+{
+	f2();
+	if(a==b)
+	{
+		while(a > 10)
+		{
+			if(a==b && a > 10 ||a < 10)
+			{
+
+			}
+		}
+	}
+}
+void main()
+{
+	if(x==b)
+	{
+		int a;
+		a=5;
+	}
+	a=a+2;
+	function();
+}
